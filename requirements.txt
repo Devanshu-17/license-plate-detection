@@ -4,4 +4,4 @@ imutils
 matplotlib
 streamlit
 streamlit-extras
-opencv-contrib-python
+opencv-python==4.5.5.64

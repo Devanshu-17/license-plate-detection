@@ -4,5 +4,4 @@ pytesseract
 imutils
 matplotlib
 streamlit
-opencv-contrib-python
 streamlit-extras

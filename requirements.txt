@@ -1,7 +1,7 @@
-opencv-python
 numpy
 pytesseract
 imutils
 matplotlib
 streamlit
 streamlit-extras
+opencv-contrib-python

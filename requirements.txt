@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pytesseract
+imutils
+matplotlib
+streamlit
+opencv-contrib-python
+streamlit-extras

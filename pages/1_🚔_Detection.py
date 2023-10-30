@@ -35,7 +35,7 @@ def detect_license_plate(image):
         return None
 
 def app():
-    st.title("License Plate Detection App")
+    st.title("Car Number Plate Detection App")
     st.write("Upload an image to detect the license plate")
     uploaded_file = st.file_uploader("Choose an image", type=["jpg","jpeg","png"])
     if uploaded_file is not None:

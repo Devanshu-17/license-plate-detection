@@ -5,3 +5,4 @@ matplotlib
 streamlit
 streamlit-extras
 opencv-python-headless
+pytesseract

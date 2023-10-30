@@ -5,7 +5,7 @@ from streamlit_extras.colored_header import colored_header
 
 
 colored_header(
-    label="License Plate Detection App",
+    label="Car Number Plate Detection",
     description="",
     color_name="violet-70",
 )

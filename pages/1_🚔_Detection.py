@@ -5,6 +5,7 @@ import streamlit as st
 from matplotlib import pyplot as plt
 import imutils
 
+pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
 def detect_license_plate(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)

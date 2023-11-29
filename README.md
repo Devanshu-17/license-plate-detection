@@ -1,4 +1,4 @@
-# Garbage Detection
+# License Plate Detection
 
 This is a simple project to detect license plates in images.
 
